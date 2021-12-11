@@ -19,8 +19,12 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
-          <WorkGridItem id="inkdrop" title="McBabel.de" thumbnail={thumbInkdrop}>
-            I programming the Website for the Mincraft Server!
+          <WorkGridItem 
+           id="inkdrop"
+           title="McBabel.de" 
+           thumbnail={thumbInkdrop}
+             >
+            Im developer by McBabel (Webdesigner)!
           </WorkGridItem>
         </Section>
         <Section>
