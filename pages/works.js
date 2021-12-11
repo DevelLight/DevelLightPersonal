@@ -4,7 +4,7 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 
-import thumbInkdrop from '../public/images/works/McBabel.png'
+import thumbInkdrop from '../public/images/works/McBabel.jpg'
 import thumbWalknote from '../public/images/works/LogoKreis.png'
 import thumbPichu2 from '../public/images/works/LogoKreis.png'
 import thumbFreeDBTagger from '../public/images/works/LogoKreis.png'
